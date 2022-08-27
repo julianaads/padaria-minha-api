@@ -3,7 +3,6 @@ package br.com.juliana.java_spring_eclipse_example.services;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
-import java.lang.String;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
